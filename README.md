@@ -30,4 +30,4 @@ LMS(학습 관리) 시스템 구축 및 웹 구현
 
 ### Screenshots
 
-![1587712274957](C:\Users\YONGHA.LEE\AppData\Roaming\Typora\typora-user-images\1587712274957.png)
+![1587712274957](img.png)
