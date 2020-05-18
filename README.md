@@ -22,10 +22,12 @@ Web 상에서 LMS(학습 관리) 시스템을 관리할 수 있도록 구현한 
 
 ### 🔑 *Tech/Framework Used*
 
+참여한 과정 : ✔
+
 - Database
-  - <u>**MySQL**</u>
+  - MySQL ✔
 - Web
-  - <u>**HTML**</u>
-  - <u>**PHP**</u>
+  - HTML ✔
+  - PHP ✔
   - JavaScript
 
