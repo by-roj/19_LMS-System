@@ -4,25 +4,24 @@ Implementing to manage Learning Management Systems on the web
 
 <br>
 
-### *◻ Goal*
+### ◻ *Goal*
 
-- LMS(학습 관리) 시스템 구조가 적재된 DB server 구축
+- Building a DB server with LMS structure
 
-  → DB server와 연동된 Web 상에서 LMS 시스템 관리 가능하도록 구현
+  → Implementing to manage LMS on the web linked to DB server
 
   <br>
   
-  #### *◻ Step*
+  #### *Step*
   
-  ​	1. 회원 가입 정보, 수강 정보, 문제 은행 등 LMS 시스템 적재된 DB 구축
-  
-   	2. DB server와 연동된 Web 구현
+  ​	1. Establishig a DB loaded with LMS such as membership, course information, problem back, etc  
+   	2. Implementing web linked to DB server
 
 <br>
 
 ### ◻ *Tech/Framework Used*
 
-(참여한 과정 : ✔)
+(Participated : ✔)
 
 - Database
   - MySQL ✔
