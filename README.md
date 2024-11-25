@@ -13,9 +13,9 @@ Implementing to manage Learning Management Systems on the web
   <br>
   
   #### *Step*
-  
-  ​	1. Establishig a DB loaded with LMS such as membership, course information, problem back, etc  
-   	2. Implementing web linked to DB server
+
+    1. Establishig a DB loaded with LMS such as membership, course information, problem back, etc
+    2. Implementing web linked to DB server
 
 <br>
 
