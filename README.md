@@ -21,7 +21,7 @@ Implementing to manage Learning Management Systems on the web
 
 ### ◻ *Tech/Framework Used*
 
-(Participated : ✔)
+(Participated: ✔)
 
 - Database
   - MySQL ✔
